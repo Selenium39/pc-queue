@@ -19,7 +19,7 @@
 create one Queue with one consumer and two producer
 
 ```js
-const Queue = require('./index')
+const Queue = require('pc-queue')
 
 // 1. define queue instance
 const queue = new Queue(2) //concurrency=2
