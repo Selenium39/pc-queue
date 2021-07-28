@@ -1,0 +1,29 @@
+{
+  "name": "pc-queue",
+  "version": "1.0.0",
+  "description": "A queue for producer-consumer model",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wantao666/pc-queue.git"
+  },
+  "keywords": [
+    "queue",
+    "co",
+    "nodejs",
+    "producer",
+    "comsumer"
+  ],
+  "author": "selenium39",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wantao666/pc-queue/issues"
+  },
+  "homepage": "https://github.com/wantao666/pc-queue#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
