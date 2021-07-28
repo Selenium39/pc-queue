@@ -14,9 +14,7 @@
 
 > A queue for producer-consumer model
 
-### 🏠 [Homepage](https://github.com/wantao666/pc-queue#readme)
-
-### ✨ [Demo](https://github.com/wantao666/pc-queue/example.js)
+### ✨ [Demo](https://github.com/wantao666/pc-queue/blob/master/example.js)
 
 ## Install
 
